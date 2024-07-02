@@ -15,7 +15,13 @@ These are some of the major technologies that I use :
 <img title="HTML" alt="HTML" width="40px" src="https://i.ibb.co/ctd9vhM/png-transparent-logo-html-html5.png" />|<img title="CSS" alt="CSS" width="40px" src="https://i.ibb.co/G3z3vHv/download-2.png" />|<img title="Tailwind CSS" alt="Tailwind CSS" width="40px" src="https://i.ibb.co/4fGm9X1/download.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="React JS" title="React JS" width="40px" src="https://i.ibb.co/6Zxgwbx/download-3.png">|<img title="mongoDB" alt="mongoDB" width="40px" src="https://i.ibb.co/gTy2F2s/download-5.png">|<img title="node JS" alt="node JS" width="40px" src="https://i.ibb.co/x5h3VqR/download-6.png">
 |--|--|--|--|--|--|--|
 
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
 
 - 🔭 I’m currently working on this page. 
 
