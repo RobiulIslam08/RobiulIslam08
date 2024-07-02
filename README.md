@@ -17,11 +17,11 @@ These are some of the major technologies that I use :
 
 [![Rabiul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=RobiulIslam08&&theme=xcode)](https://github.com/RobiulIslam08)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RobiulIslam08&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RobiulIslam08" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RobiulIslam08&show_icons=true&locale=en&theme=tokyonight" alt="RobiulIslam08" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RobiulIslam08&&theme=tokyonight" alt="RobiulIslam08" /></p>
 
 - 🔭 I’m currently working on this page. 
 
