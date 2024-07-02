@@ -10,8 +10,6 @@ I am a passionate and motivated Junior Web Developer with a strong foundation in
 
 These are some of the major technologies that I use :
 
-**Programming Languages**
-
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
 |--|--|--|--|--|
 
