@@ -12,7 +12,7 @@ These are some of the major technologies that I use :
 
  
 
-<img title="HTML" alt="HTML" width="40px" src="https://i.ibb.co/ctd9vhM/png-transparent-logo-html-html5.png" />|<img title="CSS" alt="CSS" width="40px" src="https://i.ibb.co/G3z3vHv/download-2.png" />|<img title="Python" alt="Python" width="40px" src="https://i.ibb.co/4fGm9X1/download.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+<img title="HTML" alt="HTML" width="40px" src="https://i.ibb.co/ctd9vhM/png-transparent-logo-html-html5.png" />|<img title="CSS" alt="CSS" width="40px" src="https://i.ibb.co/G3z3vHv/download-2.png" />|<img title="Tailwind CSS" alt="Tailwind CSS" width="40px" src="https://i.ibb.co/4fGm9X1/download.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="React JS" title="React JS" width="40px" src="https://i.ibb.co/6Zxgwbx/download-3.png">|<img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
 |--|--|--|--|--|--|--|
 
 
