@@ -14,7 +14,7 @@ These are some of the major technologies that I use :
  
 
 <img title="HTML" alt="HTML" width="40px" src="https://i.ibb.co/ctd9vhM/png-transparent-logo-html-html5.png" />|<img title="CSS" alt="CSS" width="40px" src="https://i.ibb.co/G3z3vHv/download-2.png" />|<img title="Tailwind CSS" alt="Tailwind CSS" width="40px" src="https://i.ibb.co/4fGm9X1/download.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="React JS" title="React JS" width="40px" src="https://i.ibb.co/6Zxgwbx/download-3.png">|<img title="mongoDB" alt="mongoDB" width="40px" src="https://i.ibb.co/gTy2F2s/download-5.png">|<img title="node JS" alt="node JS" width="40px" src="https://i.ibb.co/x5h3VqR/download-6.png">|<img title="Express JS" alt="Express Js" width="40px" src="https://i.ibb.co/BVQzKfz2/images.png">|<img title="Redux" alt="Redux" width="40px" src="https://i.ibb.co/RkF7Mg9Q/redux.png">|<img title="TypeScript" alt="TypeScript" width="40px" src="https://i.ibb.co/qY9hf7Nr/typescript.jpg">
-|--|--|--|--|--|--|--|
+|--|--|--|--|--|--|--|--|--|--|
 
 [![Rabiul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=RobiulIslam08&&theme=xcode)](https://github.com/RobiulIslam08)
 
